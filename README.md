@@ -21,5 +21,5 @@
 - [Vocab list (N=10,000)](/data/vocabs.txt)
 
 ## AI Usage Disclaimer
-* The model training was designed and conducted by human.
+* The model training was designed and implemented by human.
 * The web-page is human-designed and AI-implemented.

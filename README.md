@@ -10,6 +10,7 @@
 * [`교육`, `인생`, `독서`](https://readkr.acheul.net/?w=%EA%B5%90%EC%9C%A1%2C%EC%9D%B8%EC%83%9D%2C%EB%8F%85%EC%84%9C)
 * [`학습`, `취미`, `독서`](https://readkr.acheul.net/?w=%ED%95%99%EC%8A%B5%2C%EC%B7%A8%EB%AF%B8%2C%EB%8F%85%EC%84%9C)
 * [`침체`, `성장`, `중국`, `독일`, `영국`](https://readkr.acheul.net/?w=%EC%B9%A8%EC%B2%B4%2C%EC%84%B1%EC%9E%A5%2C%EC%A4%91%EA%B5%AD%2C%EB%8F%85%EC%9D%BC%2C%EC%98%81%EA%B5%AD)
+* [`애플`, `인텔`, `삼성`, `하이닉스`, `LG`](https://readkr.acheul.net/?w=%EC%95%A0%ED%94%8C%2C%EC%9D%B8%ED%85%94%2C%EC%82%BC%EC%84%B1%2C%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%2CLG)
 
 ## Source of Raw Data
 

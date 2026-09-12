@@ -8,6 +8,8 @@
 * [`삼성전자` - `한국` + `미국` = `인텔`?](https://readkr.acheul.net/?w=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%2C%ED%95%9C%EA%B5%AD%2C%EB%AF%B8%EA%B5%AD)
 * [`중국`, `러시아`, `과학`](https://readkr.acheul.net/?w=%EC%A4%91%EA%B5%AD%2C%EB%9F%AC%EC%8B%9C%EC%95%84%2C%EA%B3%BC%ED%95%99)
 * [`교육`, `인생`, `독서`](https://readkr.acheul.net/?w=%EA%B5%90%EC%9C%A1%2C%EC%9D%B8%EC%83%9D%2C%EB%8F%85%EC%84%9C)
+* [`학습`, `취미`, `독서`](https://readkr.acheul.net/?w=%ED%95%99%EC%8A%B5%2C%EC%B7%A8%EB%AF%B8%2C%EB%8F%85%EC%84%9C)
+* [`침체`, `성장`, `중국`, `독일`, `영국`](https://readkr.acheul.net/?w=%EC%B9%A8%EC%B2%B4%2C%EC%84%B1%EC%9E%A5%2C%EC%A4%91%EA%B5%AD%2C%EB%8F%85%EC%9D%BC%2C%EC%98%81%EA%B5%AD)
 
 ## Source of Raw Data
 

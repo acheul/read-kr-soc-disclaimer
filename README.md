@@ -7,7 +7,7 @@
 * [`부시`, `트럼프`, `미국`](https://readkr.acheul.net/?w=%EB%B6%80%EC%8B%9C%2C%ED%8A%B8%EB%9F%BC%ED%94%84%2C%EB%AF%B8%EA%B5%AD)
 * [`삼성전자` - `한국` + `미국` = `인텔`?](https://readkr.acheul.net/?w=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%2C%ED%95%9C%EA%B5%AD%2C%EB%AF%B8%EA%B5%AD)
 * [`중국`, `러시아`, `과학`](https://readkr.acheul.net/?w=%EC%A4%91%EA%B5%AD%2C%EB%9F%AC%EC%8B%9C%EC%95%84%2C%EA%B3%BC%ED%95%99)
-* [`서울`, `지역`, `아파트`](https://readkr.acheul.net/?w=%EC%84%9C%EC%9A%B8%2C%EC%A7%80%EC%97%AD%2C%EC%95%84%ED%8C%8C%ED%8A%B8&axis=period-outlet)
+* [`교육`, `인생`, `독서`](https://readkr.acheul.net/?w=%EA%B5%90%EC%9C%A1%2C%EC%9D%B8%EC%83%9D%2C%EB%8F%85%EC%84%9C)
 
 ## Source of Raw Data
 
